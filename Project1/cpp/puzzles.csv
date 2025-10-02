@@ -1,0 +1,6 @@
+id,name,n,sides,start,goal
+puzzle1,HUMBOLDT-3x3,3,4,"BUMHLODT_","HUMBOLDT_"
+puzzle2,AI-ROCKS-3x3,3,4,"AIROCK_SX","AIROCKS_X"
+puzzle3,CAL-POLY-3x3,3,4,"X_YLOPLAC","CALPOLY_X"
+puzzle4,Random-4x4,4,4,"THISI_AARNDOMPZS", "THISISARANDOMPZ_"
+puzzle5,Random-2x2,2,4,"C_BA", "ABC_"
